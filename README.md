@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img src="{{cookiecutter.repo_slug}}/docs/images/logo.svg" alt="Logo" width="125" height="125">
+    Marshall From AICC
   </a>
 </h1>
 

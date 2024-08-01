@@ -17,7 +17,13 @@
 
 <div align="center">
 <br />
-
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)]
-[![made with hearth by Marshall](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-dec0dOS-ff1414.svg?style=flat-square)]
+  
 </div>
+
+<details open="open">
+<summary>Table of Contents</summary>
+
+- [Setting](#setting)
+  - [Built With](#built-with)
+
+</details>

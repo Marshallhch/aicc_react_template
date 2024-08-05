@@ -1,6 +1,7 @@
 import React from 'react';
 import HeroSection from './HeroSection';
 import FeaturesSection from './FeaturesSection';
+import Workflow from './Workflow';
 
 const index = () => {
   return (
@@ -8,6 +9,7 @@ const index = () => {
       <div className="container">
         <HeroSection />
         <FeaturesSection />
+        <Workflow />
       </div>
     </div>
   );

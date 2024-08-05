@@ -105,22 +105,22 @@ export const features = [
 
 export const checklistItems = [
   {
-    title: 'Code merge made easy',
+    title: '매우 쉬운 코드 통합',
     description:
       'Track the performance of your VR apps and gain insights into user behavior.',
   },
   {
-    title: 'Review code without worry',
+    title: '걱정 없이 진행되는 코드 리뷰',
     description:
       'Track the performance of your VR apps and gain insights into user behavior.',
   },
   {
-    title: 'AI Assistance to reduce time',
+    title: 'AI 도움을 통한 시간 절약',
     description:
       'Track the performance of your VR apps and gain insights into user behavior.',
   },
   {
-    title: 'Share work in minutes',
+    title: '최단 시간 작업 공유',
     description:
       'Track the performance of your VR apps and gain insights into user behavior.',
   },
